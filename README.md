@@ -1,4 +1,4 @@
-# spatialQueryPostgreSQL
+# spatial Query with PostGIS
 practices:
 
 	Basic SQL Statements
